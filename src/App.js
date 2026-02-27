@@ -1,9 +1,9 @@
-import Navbar from "../../my-portfolio-1/src/components/Navbar";
-import About from "../../my-portfolio-1/src/components/About";
-import Projects from "../../my-portfolio-1/src/components/Projects";
-import Skills from "../../my-portfolio-1/src/components/Skills";
-import Resume from "../../my-portfolio-1/src/components/Resume";
-import Contact from "../../my-portfolio-1/src/components/Contact";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Resume from "./components/Resume";
+import Contact from "./components/Contact";
 
 function App() {
   return (
